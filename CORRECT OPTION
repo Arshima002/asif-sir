@@ -1,0 +1,21 @@
+e) A character variable can at a time store 
+
+(1) 1 character 
+
+(f) The statement char ch = 	; would store in ch 
+
+(1) The character Z 
+
+Which of the following is NOT a character constant (3) '23.56E-03' (this is a floating-point constant, not a character constant) 
+
+The maximum value that an integer constant can have is 
+
+(2) 32767 (for int type on most systems, assuming 1 6-bit) 
+
+(i) A C variable cannot start with 
+
+(4) Both (2) & (3) above 
+
+(A variable can't start with a number or special symbols other than underscore.) 
+
+(j) Which of the following statement is wrong 
