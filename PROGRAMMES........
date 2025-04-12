@@ -1,0 +1,66 @@
+#include< stdio.h> 
+
+int main( ) { float total_population; printf( " Let total population be x\n" ) ; 
+
+// Equation: 35% of x — literate men - literate men / 0 .35 float literate_men = 35 ; 
+
+total_population = literate_men / 
+
+0.35 ; 
+
+printf( "Total population is :  total_population) ; return O; 
+
+ Convert Distance in Kilometers 
+
+ 
+
+#include <stdio 
+
+int main() { float km, meters, feet, inches, centimeters; 
+
+printf("Enter distance between two cities in kilometers : 
+
+ 	
+scanf( "%f" , 
+
+meters = km 
+
+&km) ; 
+
+ 
+
+ 	
+feet = km * 
+
+3280 . 84; 
+
+ 	
+inches = km 
+
+* 39370.1 ; 
+
+centimeters — 		 
+
+1 00000; 
+
+printf("\nDistance meters); 
+
+ 
+
+feet) ; 
+
+in meters: %.2f" , in feet: %.2f" , 
+
+printf("\nDistance inches); 
+
+in inches: %.2f" , 
+
+printf("\nDistance inches); 
+
+in inches: %.2f" , 
+
+printf("\nDistance 
+
+in centimeters: 
+
+centimeters) ; 
