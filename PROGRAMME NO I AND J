@@ -1,0 +1,29 @@
+(i) Sum of first and last digit of a four-digit number 
+
+#include <stdio.h> 
+
+int main( ) { int num, firstDigit, lastDigit; printf("Enter a four-digit number : 
+
+scanf( "%d" , &num) ; 
+
+lastDigit = num % 10; 
+
+while(num 	10) { num / 
+
+firstDigit = num 
+
+printf( "Sum of first and last digit: firstDigit lastDigit) ; return O; 
+
+ #include< stdio.h> 
+
+ J ...int main( ) { float total_population; printf( " Let total population be x\n" ) ; 
+
+// Equation: 35% of x — literate men - literate men / 0 .35 float literate_men = 35 ; 
+
+total_population = literate_men / 
+
+0.35 ; 
+
+printf( "Total population is :  total_population) ; return O; 
+
+ 
