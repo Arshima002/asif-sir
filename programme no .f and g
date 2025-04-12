@@ -1,0 +1,47 @@
+#include stdio.h> 
+
+#define PI 3 .1416 
+
+int main( ) { float length, breadth, radius; float rect_area, rect_perimeter; float circle_area, circle_circumference; 
+
+// Input printf( "Enter length and breadth of rectangle: 
+
+scanf( 	%f", &length, &breadth) ; 
+
+printf( "Enter radius of circle: scanf( "%f" , &radius) ; 
+
+// Rectangle calculations rect_area = length * breadth; rect_perimeter = 2 * (length + breadth) ; 
+
+// Circle calculations circle_area = PI * radius * radius; circle_circumference radius; 
+
+// Output 
+
+Area = %.2f, 
+
+Perimeter 	rect_area, rect_perimeter) ; 
+
+Area — % 2f Circumference = , circle_area, circle_circumference) ; 
+
+return O; 
+
+# Program to interchange contents of C 
+
+#include <stdio.h>
+
+int main( ) { int C, D, temp; 
+
+// Input printf( "Enter two numbers C and D: 
+
+ 
+
+// Swap temp = C; 
+
+D = temp; 
+
+// Output printf( "After swapping: 
+
+ 
+
+return O; 
+
+ 
