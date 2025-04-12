@@ -1,0 +1,33 @@
+Program to calculate the sum of digits of a five-digit number: 
+
+#include <stdio.h> 
+
+int main( ) { int num, sum = O, digit; 
+
+// Input printf( "Enter a five-digit number : 
+
+scanf( "%d" , &num) ; 
+
+// Check if it ' s five-digit if (num < 10000 I l num > 99999) { printf( "Invalid input ! Enter a five-digit number .\n"); return 1 ; 
+
+// Sum of digits while (num > O) { digit = num % 10; sum += digit; num	1 0 ; 
+
+// Output  of digits =, sum) ; 
+
+return O; 
+
+ (h) Reverse a five-digit number 
+
+#include 
+
+int main( ) { int num, reversed printf( "Enter a five-digit number: 
+
+scanf( "%d" , &num) ; while(num 	O) { 
+
+reversed 	reversed * 10 + num % 
+
+10; num 	10; 
+
+printf("Reversed number : reversed); return O; 
+
+ 
