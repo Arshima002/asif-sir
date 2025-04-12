@@ -1,0 +1,73 @@
+int - 314. 562 * 1 50 
+
+Error: Variable name missing. Also, 314. 562 is a float and can't be directly assigned to an int. 
+
+name = 'Ajay' 
+
+Error: Invalid quotation marks ( ' ' instead of ' or l'). Also, variable name is undeclared. 
+
+(C) va rchar 
+
+Error: Same quote issue. Also, varchar is not a valid C data type (it is from SQL). 
+
+(d) 3. 14 *	= vol_of_cyl 
+
+Error: Left side of assignment must be a variable, not an expre (g) si	principal * rateofinterest * numberofyears / 
+
+1 00 
+
+Valid, assuming all variables are defined. 
+
+area - 
+
+Error: ** is not a valid ope	for exponentiation. 
+
+volume = 3. 14 * r A 2	1 1 
+
+ssion. 
+
+* b ) ( c + ( 2. 5a + b ) ( d + e ) 
+
+Error: Missing operators (*) between expressions, and 2 . 5a is invalid (should be 2 . 5 * a). Also, unmatched parentheses. 
+
+(f) m inst = rate of interest * amount in rs 
+
+Error: Contains invalid variable names with spaces. 
+
+(g) si	principal * rateofinterest * numberofyears / 
+
+1 00 
+
+Valid, assuming all variables are defined. 
+
+area - 
+
+Error: ** is not a valid ope	for exponentiation. 
+
+volume = 3. 14 * r A 2	1 1 
+
+(g) si	principal * rateofinterest * numberofyears / 
+
+1 00 
+
+Valid, assuming all variables are defined. 
+
+area - 
+
+Error: ** is not a valid ope	for exponentiation. 
+
+volume = 3. 14 * r A 2	1 1 
+
+(g) si	principal * rateofinterest * numberofyears / 
+
+1 00 
+
+Valid, assuming all variables are defined. 
+
+area - 
+
+Error: ** is not a valid ope	for exponentiation. 
+
+volume = 3. 14 * r A 2	1 1 
+
+ 
