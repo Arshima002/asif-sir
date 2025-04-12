@@ -1,0 +1,37 @@
+Calculate Aggregate and 
+
+Percentage of Marks 
+
+#include <stdio.h> 
+
+int main( ) { int marks[5] , i, total = o; float percentage; 
+
+printf("Enter marks for 5 subjects 
+
+(out of for  
+
+total 	marks[i] ; 
+
+percentage = (total / 500.0) * 100; 
+
+printf( " \nAggregate Marks : %d" , total); 
+
+ 
+
+percentage) ; return O; 
+
+(d) Convert Fahrenheit to Centigrade  
+
+#include <stdio.h> 
+
+int main( ) { float fahrenheit, celsius; 
+
+temperature in Fahrenheit : 
+
+scanf( "%f", &fahrenheit); celsius = (fahrenheit - 32) 9; 
+
+printf("Temperature in Centigrade: 
+
+ celsius); return C) ; 
+
+  
