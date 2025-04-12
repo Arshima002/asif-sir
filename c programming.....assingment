@@ -1,0 +1,33 @@
+[AJ Invalid Variable Names and Why 
+
+1 . BASICSALARY — Valid (Uppercase letters are allowed) 
+
+#MEAN — Invalid (Cannot start with a special character like 
+
+population in 2006 — Invalid (Contains spaces, which are not allowed) 
+
+FLOAT — Valid but not recommended (Though allowed, it shadows a C keyword) 
+
+team'svictory — Invalid (Contains a special character not allowed) 
+
+_basic — Valid (Leading underscore is allowed) 
+
+group. — Invalid (Cannot have a . character) 
+
+over time — Invalid (Contains space) 
+
+hELLO - Valid 
+
+1 0. Plot # 3 — Invalid (Contains space and #) 
+
+1 1 . basic-hra — Invalid (Hyphens are not allowed) 
+
+1 2. 422 — Invalid (Cannot start with a digit) 
+
+1 3. mindovermatter — Valid 
+
+1 4. queue. — Invalid (. not allowed in variable names) 
+
+1 5. 2015_DDay — Invalid (Cannot start with a digit) 
+
+ 
