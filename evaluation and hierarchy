@@ -1,0 +1,29 @@
+[C] Expression Evaluation and Hierarchy 
+
+Expression: 
+
+c 
+
+g = big / 2	big	/ big - big + abc / 3 
+
+Substitute: 
+
+abc = 2.5, big = 2 
+
+Expression becomes: 
+
+g	2 / 2 + 	4 /	2 + 2 . 5 / 3 
+
+Step-by-step evaluation: 
+
+1 . 2 / 2 
+
+8 / 2 = 4 
+
+2 . 5 / 3 = 0.833. . . 
+
+so g	2 + 0.833. . . = 3.833. . . 
+
+Hierarchy (operator precedence): 
+
+• / and * have higher precedence than + and • Left to right associativity for all of these 
