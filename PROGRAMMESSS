@@ -1,0 +1,31 @@
+(h) Reverse a five-digit number 
+
+#include 
+
+int main( ) { int num, reversed printf( "Enter a five-digit number: 
+
+scanf( "%d" , &num) ; while(num 	O) { 
+
+reversed 	reversed * 10 + num % 
+
+10; num 	10; 
+
+printf("Reversed number : reversed); return O; 
+
+ (i) Sum of first and last digit of a four-digit number 
+
+#include <stdio.h> 
+
+int main( ) { int num, firstDigit, lastDigit; printf("Enter a four-digit number : 
+
+scanf( "%d" , &num) ; 
+
+lastDigit = num % 10; 
+
+while(num 	10) { num / 
+
+firstDigit = num 
+
+printf( "Sum of first and last digit: firstDigit lastDigit) ; return O; 
+
+ 
